@@ -11,7 +11,7 @@
     <artifactId>hsweb-web-controller</artifactId>
 
     <properties>
-        <commons.fileupload.version>1.3.2</commons.fileupload.version>
+        <commons.fileupload.version>1.3.3</commons.fileupload.version>
     </properties>
     <dependencies>
 
